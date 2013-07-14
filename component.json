@@ -1,0 +1,18 @@
+{
+  "name": "progress-bars",
+  "repo": "twitter-bootstrap/progress-bars",
+  "description": "For loading, redirecting, or action status.",
+  "version": "0.0.1",
+  "keywords": [
+    "twitter",
+    "bootstrap",
+    "progress-bars",
+    "progress-bar"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "Apache",
+  "styles": [
+    "progress-bars.css"
+  ]
+}
